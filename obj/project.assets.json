@@ -107,9 +107,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eagle\\source\\repos\\GameFrst\\GameFrst\\GameFrst.csproj",
-      "projectName": "GameFrst",
-      "projectPath": "C:\\Users\\eagle\\source\\repos\\GameFrst\\GameFrst\\GameFrst.csproj",
+      "projectUniqueName": "C:\\Users\\eagle\\source\\repos\\GameFrst\\GameFrst\\Lab n. 12.csproj",
+      "projectName": "Lab n. 12",
+      "projectPath": "C:\\Users\\eagle\\source\\repos\\GameFrst\\GameFrst\\Lab n. 12.csproj",
       "packagesPath": "C:\\Users\\eagle\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eagle\\source\\repos\\GameFrst\\GameFrst\\obj\\",
       "projectStyle": "PackageReference",

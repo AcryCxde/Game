@@ -1,0 +1,151 @@
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\antogonist.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\antogonistFinal 1.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\antogonistPlatform.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\DoorSprite.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\emerlands.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\flashLight.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\1344 4608 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\1344 8064 ULD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\1728 6336 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2112 5952 UL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2112 6336 DR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2112 8064 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2112 8640 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2112 9024 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2496 5952 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2496 9024 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2880 2496 LU.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2880 2880 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2880 4032 L.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2880 4416 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\2880 4608 DR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3072 1728 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3072 576 UL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3263 6720 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 1728 D.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 2496 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 4032 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 5952 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 6336 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 8064 LU.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 8448 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 9024 R.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3264 9408 DRL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3456 1536 -.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3456 576 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3456 960 R.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3647 6720 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3648 1536 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3648 576 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3840 1728 -.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3840 1920 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3840 2304 L.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\3840 2496 D.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4031 6720 -.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4031 7488 LR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4031 8064 RD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 1536 -.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 4032 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 4416 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 576 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 768 -.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4032 960 L.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4224 576 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4415 6720 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4416 1728 D.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4416 2304 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4799 5952 LU.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4799 6336 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4799 6720 RD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4800 1920 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4800 2304 R.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\4800 576 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\5183 5952 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\5184 2496 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\576 4032 URL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\576 4608 L.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\576 4800 RLD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6335 5952 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6335 6336 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6336 2496 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6336 2688 D.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6336 7105 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6528 2688 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6720 7104 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6912 2688 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6912 2880 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\6912 3648 DL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7104 3648 UD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7104 7104 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7105 7488 RL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7105 7872 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7296 3648 UR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7296 3840 RLD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7489 7872 URD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\960 5952 URL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\960 6336 L.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\960 6720 RLD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Icons\light.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Icons\run.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Icons\shoker.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Instruments\button.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Instruments\spawn.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Movemenet\MoveDown1.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Movemenet\MoveLeft1.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Movemenet\MoveRight1.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Movemenet\MoveUp1.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\npc.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sensors\blueDatchik.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sensors\GreenDatchik.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sensors\pinkDatchik.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sensors\RedDatchik.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\shoker\shokerL.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\shoker\shokerR.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\shoker\shokerUD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\sreamer.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\WIN_20230206_18_06_02_Pro.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\GameFrst.exe
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\GameFrst.deps.json
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\GameFrst.runtimeconfig.json
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\GameFrst.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\GameFrst.pdb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.csproj.AssemblyReference.cache
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.AssemblyInfoInputs.cache
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.AssemblyInfo.cs
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.csproj.CoreCompileInputs.cache
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.csproj.CopyComplete
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\refint\GameFrst.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.pdb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\GameFrst.genruntimeconfig.cache
+C:\Users\eagle\source\repos\GameFrst\GameFrst\obj\Release\net6.0\ref\GameFrst.dll
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\death.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7296 3648 U.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Floor\7296 3840 LD.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\fnlDoorClose.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\fnlDoorOpen.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\gamePlace.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\helpers.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\mainMenu.ogg
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\mainMenu.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\antogonistSound.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\buttonSound.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\mainMenu.ogg
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\mainMenu.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\mainTheme.ogg
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\mainTheme.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\pobedaa.ogg
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\pobedaa.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\screamer.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\winPlace.xnb
+C:\Users\eagle\source\repos\GameFrst\GameFrst\bin\Release\net6.0\Content\Sound\antogonistSound1.xnb
